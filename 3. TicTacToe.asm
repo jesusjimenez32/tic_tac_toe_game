@@ -1,6 +1,6 @@
 ####################################################################################################################
 
-Team Members: Cory Harris, Jesus Jimenez, Zia Kim, Zoraya Sanchez de la Vega, Christopher Zhou
+# Team Members: Cory Harris, Jesus Jimenez, Zia Kim, Zoraya Sanchez de la Vega, Christopher Zhou
 
 ####################################################################################################################
 
